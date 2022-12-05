@@ -28,3 +28,6 @@ lineReader.on('close', () => {
   console.log(curr1)
   console.log(curr2)
 });
+
+
+
